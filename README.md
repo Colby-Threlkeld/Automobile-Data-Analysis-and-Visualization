@@ -11,11 +11,11 @@ This project analyzes a classic automobile dataset with various metrics like MPG
 ## Key Outputs
 
 ```text
-TASK --> 1:
+GOAL --> 1:
 Shape of the DataFrame:
 (398, 9)
 
-TASK --> 2:
+GOAL --> 2:
 Japanese cars with V6:
 123       toyota mark ii
 210       toyota mark ii
@@ -24,7 +24,7 @@ Japanese cars with V6:
 361      toyota cressida
 362    datsun 810 maxima
 
-TASK --> 3:
+GOAL --> 3:
 Cars with missing horsepower data:
 32               ford pinto
 126           ford maverick
@@ -33,17 +33,17 @@ Cars with missing horsepower data:
 354             renault 18i
 374          amc concord dl
 
-TASK --> 4:
+GOAL --> 4:
 Number of cars with MPG >= 20:
 247
 
-TASK --> 5:
+GOAL --> 5:
 Most fuel-efficient car:
 mazda glc
 
-TASK --> 6:
+GOAL --> 6:
 Minimum weight: 1613, Maximum weight: 5140, Average weight: 2970.42
 
-TASK --> 7:
+GOAL --> 7:
 New DataFrame Shape:
 (392, 9)

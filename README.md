@@ -6,6 +6,9 @@ This project analyzes a classic automobile dataset with various metrics like MPG
 
 ## Visualizations
 
+!(car-graph.png)
+!(car-pie-chart.png)
+
 ---
 
 ## Key Outputs

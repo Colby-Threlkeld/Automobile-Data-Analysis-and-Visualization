@@ -6,8 +6,8 @@ This project analyzes a classic automobile dataset with various metrics like MPG
 
 ## Visualizations
 
-![MPG vs Displacement & Weight](car-graph.png)
-![Car Origin](car-pie-chart.png)
+![MPG vs Displacement & Weight](images/car-graph.png)
+![Car Origin](images/car-pie-chart.png)
 
 ---
 
